@@ -1,0 +1,7 @@
+stringvalue=test config file
+intvalue=5
+floatvalue=5.0f
+boolvalue=TRUE
+falsevalue=false
+errorbool=asdasd
+ipvalue=11.22.33.44
